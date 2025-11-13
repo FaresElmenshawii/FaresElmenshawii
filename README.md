@@ -22,10 +22,10 @@ value.</p>
   <a href="https://www.linkedin.com/in/fares-elmenshawi-094a96235/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.kaggle.com/fareselmenshawii" target="_blank">
+  <a href="https://www.kaggle.com/fareselmenshawiii" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="mailto:fareselmenshawi98@gmail.com">
+  <a href="mailto:fareselmenshawii98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
@@ -93,21 +93,21 @@ value.</p>
 ## <div align="center">📊 GitHub Stats</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fareselmenshawi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fareselmenshawii&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fareselmenshawi&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fareselmenshawii&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## <div align="center">🏆 GitHub Trophies</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fareselmenshawi&theme=nord&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fareselmenshawii&theme=nord&column=7" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fareselmenshawi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=fareselmenshawii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
